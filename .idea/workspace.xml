@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75f1d03c-f740-4b84-8ec2-46238f0c8bea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dio-java-contador.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/desafio/Contador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/desafio/exception/ParametrosInvalidosException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dio/desafio/Contador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dio/desafio/exception/ParametrosInvalidosException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dio/fluxo/exception/ParametrosInvalidosException.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,11 +44,11 @@
 }]]></component>
   <component name="RunManager">
     <configuration name="Contador" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dio.desafio.Contador" />
+      <option name="MAIN_CLASS_NAME" value="Contador" />
       <module name="dio-java-contador" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dio.desafio.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,11 +73,22 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/dio/desafio/contador/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/dio/fluxo/contador/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
